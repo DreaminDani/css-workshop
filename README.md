@@ -4,7 +4,7 @@ Based on the following designs: https://www.figma.com/file/BYWiTZtDqeletaz3wAPjt
 Each branch refers to a step in the workshop.
 
 ## Notes on what I did in each step go here
-### Baseline
+### Step 1
 Took ~30 minutes.
 
 Used [live-server](https://github.com/tapio/live-server) to auto-reload CSS and HTML.
